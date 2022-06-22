@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288580892790",
+    "project_id": "face-detection-5e558",
+    "storage_bucket": "face-detection-5e558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288580892790:android:58c3e3e07ab3122d308757",
+        "android_client_info": {
+          "package_name": "com.internship.lgmtask2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288580892790-cucqv1kt5ec2tlvh4fu15ag70kqhhmnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86A51a4Ds2MZg8pEAuZ-7v-_8VvNhEzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288580892790-cucqv1kt5ec2tlvh4fu15ag70kqhhmnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
